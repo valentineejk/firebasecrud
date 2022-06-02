@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491080479663",
+    "project_id": "collectio-app-8479f",
+    "storage_bucket": "collectio-app-8479f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491080479663:android:913478ac51772193c9b55a",
+        "android_client_info": {
+          "package_name": "com.example.collectioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491080479663-k5ig0dhmhs8r5b4vvjrer4b6cjgaeiqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmNPNBvKKGREjsRTXJbSiK1pRQ3YHcGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491080479663-k5ig0dhmhs8r5b4vvjrer4b6cjgaeiqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

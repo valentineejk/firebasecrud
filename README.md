@@ -1,4 +1,4 @@
-# collectioapp
+# Firebase App
 
 A new Flutter project.
 
